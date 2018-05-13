@@ -1,0 +1,141 @@
+User Pierre created
+User Jean created
+User Valentine created
+User Valerie created
+User Agatha created
+User Antoine created
+Pierre plans random ride from station 2 at 20 minutes.
+Valentine plans random ride from station 8 at 40 minutes.
+Pierre(Id 1) returns bike : 1 euros charged, 55 minutes.
+Jean plans shortest path ride from station 6 to  station 8. at time non defined yet (not reached the start station yet).
+Station 10 is offline.
+Valentine(Id 3) returns bike : 1 euros charged, 70 minutes.
+User 1 (Pierre) : 
+Number of rides : 1 | Total time spent on time : 55 | Total amount of charges : 1 | TimeCredit earned : 0
+
+Station 2 : 
+Number of bikes rented : 1
+Number of bikes returned : 0
+Rate of occupation : 0.1
+
+Station 8 : 
+Number of bikes rented : 1
+Number of bikes returned : 1
+Rate of occupation : 0.1
+
+STATION : Id 1 Position at coordinates (2143.984045982962, 1508.286075194425) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 2 Position at coordinates (2044.008649142991, 1889.3303556222793) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 free
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 3 Position at coordinates (2794.765276958172, 1414.5233903103356) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 free
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 4 Position at coordinates (3893.740351922896, 2275.50801487529) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 5 Position at coordinates (1290.5290595958268, 1195.382312501774) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 free
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 6 Position at coordinates (1481.8412366496675, 3576.648736940959) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 free
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 7 Position at coordinates (1739.206480489231, 103.08746093131704) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 free
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 8 Position at coordinates (794.7728116844588, 2983.8849989914925) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 9 Position at coordinates (402.8147915252842, 3907.7899161100327) nb slots 10 online 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+STATION : Id 10 Position at coordinates (838.9374860882821, 358.60890716816664) nb slots 10 offline 
+      SLOT : Id 1 occupied
+      SLOT : Id 2 occupied
+      SLOT : Id 3 occupied
+      SLOT : Id 4 occupied
+      SLOT : Id 5 occupied
+      SLOT : Id 6 occupied
+      SLOT : Id 7 occupied
+      SLOT : Id 8 occupied
+      SLOT : Id 9 free
+      SLOT : Id 10 free
+User 1 (Pierre) (Last Location : at coordinates (794.7728116844588, 2983.8849989914925)) is not riding. 
+User 2 (Jean) (Last Location : at coordinates (3985.0977130370165, 3354.8518749624445)) is not riding. 
+User 3 (Valentine) (Last Location : at coordinates (3893.740351922896, 2275.50801487529)) is not riding. 
+User 4 (Valerie) (Last Location : at coordinates (509.9482282305385, 1996.6635021016352)) is not riding. 
+User 5 (Agatha) (Last Location : at coordinates (1056.9591133071815, 1323.3220765831657)) is not riding. 
+User 6 (Antoine) (Last Location : at coordinates (1189.5784722663127, 1635.3064760235125)) is not riding. 

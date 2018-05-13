@@ -1,0 +1,15 @@
+myVelib.bike
+myVelib.bikeFactory
+myVelib.cardFactory
+myVelib.exceptions
+myVelib.ride
+myVelib.ridePlanning
+myVelib.station
+myVelib.stationFactory
+myVelib.stationSorting
+myVelib.system
+myVelib.userAndCard
+myVelib.utilities
+myVelibCLUI
+myVelibGUI
+tests

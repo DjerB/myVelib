@@ -1,0 +1,17 @@
+setup Velov
+setup Velocite 6 10 3000 48
+addUser Jeanne none Velov
+addUser Vincent vlibre Velov
+addUser Patrick vmax Velocite
+addUser Stephane none Velov
+addUser Oscar vlibre Velov
+rentBike 1 4 Velov electrical 40
+planRide Velov 4 2300 100 mechanical shortestpath
+returnBike 1 8 139 Velov
+offline Velov 3
+rentBike 2 3 Velov mechanical 80
+rentBike 5 9 Velocite electrical 20
+returnBike 2 1 129 Velov
+returnPlanBike 4 76 Velov
+display Velov
+display Velocite

@@ -1,0 +1,17 @@
+setup VelibParis 10 10 4000 75
+addUser Pierre none VelibParis
+addUser Jean vlibre VelibParis
+addUser Valentine vmax VelibParis
+addUser Valerie none VelibParis
+addUser Agatha none VelibParis
+addUser Antoine vmax VelibParis
+rentBike 1 2 VelibParis electrical 20
+rentBike 3 8 VelibParis mechanical 40
+returnBike 1 8 75 VelibParis
+planRide VelibParis 2 30 2300 mechanical shortestpath
+offline VelibParis 10
+returnBike 3 4 110 VelibParis
+displayUser VelibParis 1
+displayStation VelibParis 2
+displayStation VelibParis 8
+display VelibParis
