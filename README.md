@@ -4,4 +4,9 @@ MyVelib is a coursework project I worked on from scratch during my second year a
 This project consists in creating a public bike sharing system like Velib' in Paris. The architecture has been meticulously designed, following the Agile Development methodology. Several classes have been implemented to representing both real and abstract concepts like User, Stations or SortStations.
 The codebase goes with a graphical user interface which enables the creation of networks, users, etc. You can find the jar file and test it.
 You can plan journeys according to a given policy (faster, shorter rides, plus or standard station,...), make a user rent a bike, return it and get access to the global state of the network (users states (balance, riding or not,...), stations states,...)
-![](demo_velib.mov)
+
+<img src="docs/demo_velib_0_30.gif" width="400" />
+<img src="docs/demo_velib_30_60.gif" width="400" />
+<img src="docs/demo_velib_60_90.gif" width="400" />
+
+
